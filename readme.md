@@ -3,7 +3,9 @@ Build A Bot
 Tips, tools, and tricks for building twitter bots in `python`. 
 
 
-## Bots I've built.
+## Examples of Bots
+
+### Bots I've built.
 
 - **[@TreasuryIO](http://www.twitter.com/treasuryio)** is a bot that runs daily queries on data from [treasury.io](http://treasury.io/), formats the results in human-readable text, and publishes them to twitter. You can find the source code [here](bit.ly/view_source) or [here](https://github.com/csvsoundsystem/federal-treasury-api/blob/master/twitter/tweetbot.py)
 
@@ -20,7 +22,7 @@ Tips, tools, and tricks for building twitter bots in `python`.
 <blockquote class="twitter-tweet" lang="en"><p>why does walmart have <br/> the worse fucking check out lines <br/>in the fucking world <br/> <a href="http://t.co/k4ttOT2vbX">http://t.co/k4ttOT2vbX</a></p>&mdash; haikugrams (@haikugrams) <a href="https://twitter.com/haikugrams/statuses/367450765994242048">August 14, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Bots I wish I had built.
+### Bots I wish I had built.
 
 - **[@StopAndFrisk](https://twitter.com/stopandfrisk)** is tweeting all 685,724 stop-and-frisk incidents from 2011.
 
@@ -68,4 +70,17 @@ Tips, tools, and tricks for building twitter bots in `python`.
 <blockquote class="twitter-tweet" lang="en"><p>here&#39;s a test sunset <a href="http://t.co/8xUI8NGByv">pic.twitter.com/8xUI8NGByv</a></p>&mdash; ProPublica Sunset (@ProPubSunset) <a href="https://twitter.com/ProPubSunset/statuses/353206867721330688">July 5, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
+
+## Tools to build bots
+- **[Iron Ebooks](https://github.com/harrisj/iron_ebooks)** is a library written by Jake Harris to turn a user's feed into an Ebooks account.
+
+## More About Bots
+
+- **[Tiny Subversions](http://www.tinysubversions.com) is an amazing person named Darius who churns out bots like [@metaphorminute](http://www.twitter.com/metaphorminute) and [@twoheadlines](https://twitter.com/twoheadlines )
+
+- **[New York Review of Bots](http://nybots.tumblr.com/) is exactly what it sounds like.
+
+
+
+
 
