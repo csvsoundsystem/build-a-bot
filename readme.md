@@ -76,9 +76,9 @@ Tips, tools, and tricks for building twitter bots in `python`.
 
 ## More About Bots
 
-- **[Tiny Subversions](http://www.tinysubversions.com) is an amazing person named Darius who churns out bots like [@metaphorminute](http://www.twitter.com/metaphorminute) and [@twoheadlines](https://twitter.com/twoheadlines )
+- **[Tiny Subversions](http://www.tinysubversions.com)** is an amazing person named Darius who churns out bots like [@metaphorminute](http://www.twitter.com/metaphorminute) and [@twoheadlines](https://twitter.com/twoheadlines )
 
-- **[New York Review of Bots](http://nybots.tumblr.com/) is exactly what it sounds like.
+- **[New York Review of Bots](http://nybots.tumblr.com/)** is exactly what it sounds like.
 
 
 
